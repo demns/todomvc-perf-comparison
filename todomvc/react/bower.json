@@ -1,9 +1,0 @@
-{
-  "name": "todomvc-react",
-  "version": "0.0.1",
-  "dependencies": {
-    "todomvc-common": "latest",
-    "react": "latest",
-    "director": "latest"
-  }
-}
